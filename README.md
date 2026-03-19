@@ -120,7 +120,7 @@ Projeto: Bolsa Futuro Digital (BFD)
 Área: Desenvolvimento FrontEnd
 Instituição: Instituto Federal de Brasília (IFB)
 
----
+
 
 📌 Considerações Finais
 Este projeto demonstra:
